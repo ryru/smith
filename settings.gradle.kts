@@ -1,3 +1,3 @@
 rootProject.name = "smith"
 
-include("matrix", "world")
+include("matrix", "world", "agent")
